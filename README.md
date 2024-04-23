@@ -1,8 +1,24 @@
-- 🌟 ABOUT ME 
-👋 Hi, I’m jean yves daniel KOFFI, i work as production clerk, currently 🙂. i'am interested by Data Analyst and Data Science because i want to become a good Data Scientist.
-- 🌱 I’m currently learning Data Analytics.
-- 🔎🔎 I’m looking for teachers, mentors, and all things that can help me to get my goal
-- 📫 How to reach me, you can meet me by e-mail, linkedin or Instagram 😊.
+# Hello, I'm Jean Yves Daniel Koffi 👋
+
+## About Me
+🌍 I'm from Ivory Coast (Côte d'Ivoire)  
+🏭 Former accounting, i worked before as Production Clerk, now i want to become Data Scientist  
+📊 Passionate about Statistics, Probability, IT and Data Analysis  
+📚 Currently, i got skills in Descriptive Statistics, Sampling Methods, and Confidence Intervals  
+🎯 Goal: To become a proficient Data Scientist and contribute to meaningful projects  
+
+## Currently Skills
+- **Descriptive Statistics**: Understanding data through summary measures and visualization  
+- **Probability**: Calculating the likelihood of events and understanding random variables  
+- **Sampling**: Designing and implementing effective sampling methods for data collection  
+- **Confidence Intervals**: Estimating population parameters with a degree of certainty  
+
+## Learning Journey
+- 📈 I'm actively learning and applying data analyst techniques to real-world problems  
+- 💡 I'm open to collaborations and learning from the community  
+
+## Connect with Me
+I reach out for collaborations or just a chat about data analytics, you can meet me by e-mail, linkedin or Instagram 😊.
 - e-mail
 - ydan2024@gmail.com 
 - linkedin 💼
