@@ -22,14 +22,10 @@
 I reach out for collaborations or just a chat about data analytics, you can meet me by e-mail, linkedin or Instagram 😊.
 - e-mail
 ydan2024@gmail.com 
-- linkedin 💼
-https://www.linkedin.com/in/jean-yves-daniel-koffi-b246741a1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BevS0D%2BRCQACHkcOCl4Fnzw%3D%3D
-- Instagram 😊
-https://www.instagram.com/iamkoffijean?igsh=OGQ5ZDc2ODk2ZA==
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jean-yves daniel koffi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jean-yves daniel koffi" height="30" width="40" /></a>
-<a href="https://instagram.com/iamkoffijean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamkoffijean" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jean-yves-daniel-koffi-b246741a1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BevS0D%2BRCQACHkcOCl4Fnzw%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jean-yves daniel koffi" height="30" width="40" /></a>
+<a href="https://instagram.com/iamkoffijean?igsh=OGQ5ZDc2ODk2ZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamkoffijean" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
